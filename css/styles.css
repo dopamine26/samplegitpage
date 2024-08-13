@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/Raleway-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400; 
+}
+
+h1 {
+    font-weight: 700;
+}
+
+main{
+    text-align: center;
+}
+
+
